@@ -12,4 +12,6 @@
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine ](https://github.com/tvkuthesag/Setting-UP-A-VPN)
 <h2>📩Connect with me:</h2>
-[linkedin]: https://linkedin.com/in/tuku-ogon-933980b5
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]:https://www.linkedin.com/in/tuku-ogon-933980b5
