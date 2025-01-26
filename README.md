@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tuku, an <a href="https://linkedin.com/in/tuku-ogon-933980b5">IT Professional</a>☺</h1>
+<h1>Hi, I'm Tuku, your super <a href="https://linkedin.com/in/tuku-ogon-933980b5">IT Professional</a>☺</h1>
 
 <h2>🖥️🖥️ Information Technology Projects:</h2>
 
