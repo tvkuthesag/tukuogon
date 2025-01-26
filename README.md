@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tuku, an <a href="https://linkedin.com/in/tuku-ogon-933980b5">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>🖥️🖥️ Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
      - [osTicket: Prerequisites and Installation](https://github.com/tvkuthesag/osticket-prereqs)
@@ -10,6 +10,6 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tvkuthesag/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tvkuthesag/azure-network-protocols)
 - <b>Virtual Private Network</b>
-  - [VPN Setup in Virtual Machine ](https://github.com/joeljjoseph1998/Setting-UP-A-VPN)
-<h2>🤳Connect with me:</h2>
+  - [VPN Setup in Virtual Machine ](https://github.com/tvkuthesag/Setting-UP-A-VPN)
+<h2>📩Connect with me:</h2>
 [linkedin]: https://linkedin.com/in/tuku-ogon-933980b5
